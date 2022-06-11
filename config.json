@@ -17,13 +17,13 @@
     "watch": false,
     "pools": [
         {
-            "url": "webchain.wattpool.net:1111",                  // URL of mining server
-            "user": "0x035ba77B912EA3eA5a05c07601242fDB28229d81", // username for mining server
+            "url": "web-ko1.gonspool.com:3333",                  // URL of mining server
+            "user": "0xf05c3c9b25a64c12c1b33bceb8c68d28fa29ea6b", // username for mining server
             "pass": "x",                                          // password for mining server
             "keepalive": false,                                   // send keepalived for prevent timeout (need pool support)
             "nicehash": false,
             "rig-id": null,
-            "worker-id": "dockerized",
+            "worker-id": "kerized",
         }
     ],
     "api": {
